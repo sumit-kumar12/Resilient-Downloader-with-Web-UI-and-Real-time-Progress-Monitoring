@@ -1,0 +1,42 @@
+[
+  {
+    "id": "26387955-1ee7-428a-b163-d60c16216393",
+    "url": "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_EnglishInternational_x64.iso?t=1e088be9-779b-463b-977c-4b5f8ebc8e3d&P1=1761074593&P2=601&P3=2&P4=SA5liI%2fLvSu2fJrEWNpZ3%2fEyAYwTg0XkUJvd9gtBodRKLuMPXxpWAYoI0twVgRFD8L0mTQ%2fihlE1g6jVg65SB7pvqBNJvaQpuAAlTimkdsej6lfBd3sNUG%2bIjyf6g6NYLvNPsVIpMXph5tbZ3UgVW2FNxWqJERbx3wao%2fBkYypcAS3A3xWYrtj65VDJfmgzo13mVbbXr8yTuAGfEJkKgY33GoJD%2b2YqAquMPRPibuTNHRsOPUF6g739mT8VJ6nLqtzhyAWBlb3XHXXliOSH5QLM8pfdV7lkJukxG6xzo3030GiHH48NtUTOXtBzOAZkoAj%2fLv9tHGCdREsX68btwkg%3d%3d",
+    "filename": "Win11_25H2_EnglishInternational_x64.iso",
+    "location": "downloads",
+    "status": "stopped",
+    "progress": 99.95943427719065,
+    "speed": 0.0,
+    "total_size": 7754645504,
+    "downloaded": 7751499776,
+    "eta": null,
+    "created_at": "2025-10-21T02:04:52.555788",
+    "completed_at": null,
+    "error_message": "name 'mirror_stats' is not defined",
+    "mirrors": [
+      "https://software.download.prss.microsoft.com/dbazure/Win11_25H2_EnglishInternational_x64.iso?t=1e088be9-779b-463b-977c-4b5f8ebc8e3d&P1=1761074593&P2=601&P3=2&P4=SA5liI%2FLvSu2fJrEWNpZ3%2FEyAYwTg0XkUJvd9gtBodRKLuMPXxpWAYoI0twVgRFD8L0mTQ%2FihlE1g6jVg65SB7pvqBNJvaQpuAAlTimkdsej6lfBd3sNUG%2BIjyf6g6NYLvNPsVIpMXph5tbZ3UgVW2FNxWqJERbx3wao%2FBkYypcAS3A3xWYrtj65VDJfmgzo13mVbbXr8yTuAGfEJkKgY33GoJD%2B2YqAquMPRPibuTNHRsOPUF6g739mT8VJ6nLqtzhyAWBlb3XHXXliOSH5QLM8pfdV7lkJukxG6xzo3030GiHH48NtUTOXtBzOAZkoAj%2FLv9tHGCdREsX68btwkg%3D%3D"
+    ],
+    "last_update_time": 1760993634.105934,
+    "last_downloaded": 7751499776
+  },
+  {
+    "id": "9a79f63c-8efa-467b-81d5-5e9d8dbd69ba",
+    "url": "https://mirrors.esto.network/kali-images/kali-2025.3/kali-linux-2025.3-vmware-amd64.7z",
+    "filename": "kali-linux-2025.3-vmware-amd64.7z",
+    "location": "downloads",
+    "status": "stopped",
+    "progress": 100.0,
+    "speed": 0.0,
+    "total_size": 3666795246,
+    "downloaded": 3666795246,
+    "eta": null,
+    "created_at": "2025-10-21T02:14:06.617952",
+    "completed_at": "2025-10-21T02:23:50.490279",
+    "error_message": null,
+    "mirrors": [
+      "https://mirrors.esto.network/kali-images/kali-2025.3/kali-linux-2025.3-vmware-amd64.7z"
+    ],
+    "last_update_time": 1760993600.9852772,
+    "last_downloaded": 3666795246
+  }
+]
